@@ -16,7 +16,9 @@ The main project. Two notebooks built during my internship at DLR's Planetary Ph
 
 - **Subsurface radar analysis** — Processes raw MARSIS binary `.img` files and PDS4 XML labels to extract and overlay radargrams and clutter simulations. Derives the dielectric constant of the subsurface from radar echo depth measurements and applies Stillman's two-component mixing model to estimate volume fractions of basalt and ice/void.
 
-Both notebooks work directly with real mission data — no pre-processed intermediary files.
+- **Numerical plume modelling** — coming soon*
+
+All notebooks work directly with real mission data — no pre-processed intermediary files.
 
 ---
 
