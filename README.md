@@ -1,6 +1,6 @@
 # Hi, I'm Faris
 
-I'm a planetary geoscientist and data analyst based in Berlin. I did my Master's through the [Erasmus Mundus GeoPlaNet program](https://geoplanet-master.eu/) — two years, four universities across Portugal, Italy, France, and Germany — and wrote my thesis on the geophysical investigation of Noctis Mons, a recently confirmed volcano on Mars, at the German Aerospace Center (DLR).
+I'm a planetary geoscientist and data analyst based in Berlin. I did my Master's through the [Erasmus Mundus GeoPlaNet program](https://geoplanet-impg.eu/) — two years, four universities across Portugal, Italy, France, and Germany — and wrote my thesis on the geophysical investigation of Noctis Mons, a recently hypothesised volcano on Mars, at the German Aerospace Center (DLR).
 
 Most of what I do sits at the intersection of satellite data, numerical modelling, and trying to figure out what's going on beneath a planetary surface. The short version: I process large orbital datasets, build analysis pipelines in Python, and turn raw binary files from space missions into something interpretable.
 
@@ -37,6 +37,6 @@ Both notebooks work directly with real mission data — no pre-processed interme
 
 ## A bit more
 
-I'm currently looking for data analyst or geospatial analyst roles — ideally somewhere the data is messy and the questions are worth asking. I'm comfortable working across disciplines and have spent the last two years doing exactly that: moving between planetary physics, numerical modelling, field geology, and remote sensing depending on what the problem needed.
+I'm currently looking for roles in data analytics, business intelligence/consultancy, or geophysics/geospatial analyses — ideally somewhere the data is a relevant force shaping business strategy and driving growth. I'm comfortable working across disciplines and have spent the last two years doing exactly that: moving between planetary physics, numerical modelling, field geology, and remote sensing depending on what the problem needed.
 
 📧 farisbeg.mirza@gmail.com | 📍 Berlin
