@@ -1,6 +1,6 @@
 # Hi, I'm Faris
 
-I'm a planetary geoscientist and data analyst based in Berlin. I did my Master's through the [Erasmus Mundus GeoPlaNet program](https://geoplanet-impg.eu/) — two years, four universities across Portugal, Italy, France, and Germany — and wrote my thesis on the geophysical investigation of Noctis Mons, a recently hypothesised volcano on Mars, at the German Aerospace Center (DLR).
+I'm a planetary geoscience graduate with experience in orbital data analytics and processing. I did my Master's through the [Erasmus Mundus GeoPlaNet program](https://geoplanet-impg.eu/) — two years, four universities across Portugal, Italy, France, and Germany — and wrote my thesis on the geophysical investigation of Noctis Mons, a recently hypothesised volcano on Mars, at the German Aerospace Center (DLR).
 
 Most of what I do sits at the intersection of satellite data, numerical modelling, and trying to figure out what's going on beneath a planetary surface. The short version: I process large orbital datasets, build analysis pipelines in Python, and turn raw binary files from space missions into something interpretable.
 
