@@ -12,13 +12,14 @@ Most of what I do sits at the intersection of satellite data, numerical modellin
 
 The main project. Two notebooks built during my internship at DLR's Planetary Physics department:
 
-- **Surface reconstruction** — Uses MOLA spherical harmonic topography (lmax=3000) and QGIS-sampled elevation data to reconstruct the pre-volcanic surface of Noctis Mons via RBF interpolation, estimate the uplift volume, and compare it against other Martian shield volcanoes.
+- **Surface reconstruction**: Uses MOLA spherical harmonic topography (lmax=3000) and QGIS-sampled elevation data to reconstruct the pre-volcanic surface of Noctis Mons via RBF interpolation, estimate the uplift volume, and compare it against other Martian shield volcanoes.
 
-- **Subsurface radar analysis** — Processes raw MARSIS binary `.img` files and PDS4 XML labels to extract and overlay radargrams and clutter simulations. Derives the dielectric constant of the subsurface from radar echo depth measurements and applies Stillman's two-component mixing model to estimate volume fractions of basalt and ice/void.
+- **Subsurface radar analysis** : Processes raw MARSIS binary `.img` files and PDS4 XML labels to extract and overlay radargrams and clutter simulations. Derives the dielectric constant of the subsurface from radar echo depth measurements and applies Stillman's two-component mixing model to estimate volume fractions of basalt and ice/void.
 
-- **Numerical plume modelling** — coming soon*
+- **Numerical plume modelling**: Analytical elastic flexure modelling of plume-induced crustal uplift beneath Noctis Mons. Constrains mantle plume dimensions by fitting predicted surface deformation to the observed topographic signal.
 
-All notebooks work directly with real mission data — no pre-processed intermediary files.
+
+##### All notebooks work directly with real mission data, not requiring any pre-processed intermediary files.
 
 ---
 
