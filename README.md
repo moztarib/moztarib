@@ -10,7 +10,7 @@ Most of what I do sits at the intersection of satellite data, numerical modellin
 
 ### 🔴 [mars-geophysics-portfolio](https://github.com/moztarib/mars-geophysics-portfolio)
 
-The main project. Two notebooks built during my internship at DLR's Planetary Physics department:
+The main project:
 
 - **Surface reconstruction**: Uses MOLA spherical harmonic topography (lmax=3000) and QGIS-sampled elevation data to reconstruct the pre-volcanic surface of Noctis Mons via RBF interpolation, estimate the uplift volume, and compare it against other Martian shield volcanoes.
 
