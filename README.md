@@ -10,8 +10,6 @@ Most of what I do sits at the intersection of satellite data, numerical modellin
 
 ### 🔴 [mars-geophysics-portfolio](https://github.com/moztarib/mars-geophysics-portfolio)
 
-The main project:
-
 - **Surface reconstruction**: Uses MOLA spherical harmonic topography (lmax=3000) and QGIS-sampled elevation data to reconstruct the pre-volcanic surface of Noctis Mons via RBF interpolation, estimate the uplift volume, and compare it against other Martian shield volcanoes.
 
 - **Subsurface radar analysis** : Processes raw MARSIS binary `.img` files and PDS4 XML labels to extract and overlay radargrams and clutter simulations. Derives the dielectric constant of the subsurface from radar echo depth measurements and applies Stillman's two-component mixing model to estimate volume fractions of basalt and ice/void.
@@ -19,13 +17,13 @@ The main project:
 - **Numerical plume modelling**: Analytical elastic flexure modelling of plume-induced crustal uplift beneath Noctis Mons. Constrains mantle plume dimensions by fitting predicted surface deformation to the observed topographic signal.
 
 
-##### All notebooks work directly with real mission data, not requiring any pre-processed intermediary files.
+### 🔴 [data-analytics-sql](https://github.com/moztarib/data-analytics-sql)
 
 ---
 
 ## Tools I work with
 
-**Python stack:** numpy, pandas, scipy, matplotlib, geopandas, pyshtools, scikit-learn  
+**Python stack:** numpy, pandas, sqlite3, scipy, matplotlib, geopandas, pyshtools, scikit-learn, 
 **Geospatial:** QGIS, ArcGIS, GDAL, rasterio, shapefiles, DEMs, WMS/SSH data retrieval  
 **Other:** SQL, LaTeX, IDL, Jupyter, Git
 
