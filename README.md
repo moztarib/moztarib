@@ -1,43 +1,37 @@
 # Hi, I'm Faris
+Planetary geoscience graduate with experience in orbital data analytics, 
+numerical modelling and data pipeline development. 
+MSc through the [Erasmus Mundus GeoPlaNet program](https://geoplanet-impg.eu/). 
+My thesis involved the geophysical investigation of Noctis Mons (Mars) at DLR Berlin.
 
-I'm a planetary geoscience graduate with experience in orbital data analytics and processing. I did my Master's through the [Erasmus Mundus GeoPlaNet program](https://geoplanet-impg.eu/) — two years, four universities across Portugal, Italy, France, and Germany — and wrote my thesis on the geophysical investigation of Noctis Mons, a recently hypothesised volcano on Mars, at the German Aerospace Center (DLR).
-
-Most of what I do sits at the intersection of satellite data, numerical modelling, and trying to figure out what's going on beneath a planetary surface. The short version: I process large orbital datasets, build analysis pipelines in Python, and turn raw binary files from space missions into something interpretable.
-
----
-
-## What's in this portfolio
-
-### 🔴 [mars-geophysics-portfolio](https://github.com/moztarib/mars-geophysics-portfolio)
-
-- **Surface reconstruction**: Uses MOLA spherical harmonic topography (lmax=3000) and QGIS-sampled elevation data to reconstruct the pre-volcanic surface of Noctis Mons via RBF interpolation, estimate the uplift volume, and compare it against other Martian shield volcanoes.
-
-- **Subsurface radar analysis** : Processes raw MARSIS binary `.img` files and PDS4 XML labels to extract and overlay radargrams and clutter simulations. Derives the dielectric constant of the subsurface from radar echo depth measurements and applies Stillman's two-component mixing model to estimate volume fractions of basalt and ice/void.
-
-- **Numerical plume modelling**: Analytical elastic flexure modelling of plume-induced crustal uplift beneath Noctis Mons. Constrains mantle plume dimensions by fitting predicted surface deformation to the observed topographic signal.
-
-
-### 🔴 [data-analytics-sql](https://github.com/moztarib/data-analytics-sql)
+📧 farisbeg.mirza@gmail.com | 📍 Berlin
 
 ---
 
-## Tools I work with
+## Portfolio
 
-**Python stack:** numpy, pandas, sqlite3, scipy, matplotlib, geopandas, pyshtools, scikit-learn, 
-**Geospatial:** QGIS, ArcGIS, GDAL, rasterio, shapefiles, DEMs, WMS/SSH data retrieval  
-**Other:** SQL, LaTeX, IDL, Jupyter, Git
+### 1. [mars-geophysics-portfolio](https://github.com/moztarib/mars-geophysics-portfolio)
+Geophysical investigation of Noctis Mons, Mars — using MOLA, MARSIS radar 
+and numerical plume modelling at DLR Berlin.
+
+**Skills:** Large-scale orbital data processing, RBF interpolation, radar 
+dielectric inversion, elastic flexure modelling, spherical harmonics  
+**Tools:** Python, NumPy, SciPy, GeoPandas, pyshtools, QGIS, Matplotlib
+
+---
+
+### 2. [data-analytics-sql](https://github.com/moztarib/data-analytics-sql)
+End-to-end SQL analytics project on 51,290 global retail transactions —
+identifying which products, regions and customers drive profit and which
+quietly lose money despite high sales.
+
+**Skills:** Star schema design, exploratory analysis, time series, 
+window functions (LAG, RANK, DENSE_RANK), CTEs, segmentation, 
+business reporting with CREATE VIEW  
+**Tools:** SQL (SQLite), Python, pandas, SQLAlchemy, Jupyter, ipython-sql
 
 ---
 
 ## Publications
-
-- *Geophysical Investigation of Noctis Volcano on Mars using MOLA, MARSIS, and Numerical Plume Modelling* — ESS Open Archive / DLR e-Library
-- *Inverted River Channels in Alcañiz: Insights into Mars' Fluvial History* — [EGU Tectonics and Structural Geology blog](https://blogs.egu.eu/divisions/ts/2024/08/16/inverted-river-channels-in-alcaniz-insights-into-mars-fluvial-history/)
-
----
-
-## A bit more
-
-I'm currently looking for roles in data analytics, business intelligence/consultancy, or geophysics/geospatial analyses — ideally somewhere the data is a relevant force shaping business strategy and driving growth. I'm comfortable working across disciplines and have spent the last two years doing exactly that: moving between planetary physics, numerical modelling, field geology, and remote sensing depending on what the problem needed.
-
-📧 farisbeg.mirza@gmail.com | 📍 Berlin
+- *Geophysical Investigation of Noctis Volcano on Mars* — ESS Open Archive / DLR e-Library
+- *Inverted River Channels in Alcañiz: Insights into Mars' Fluvial History* — [EGU Blog](https://blogs.egu.eu/divisions/ts/2024/08/16/inverted-river-channels-in-alcaniz-insights-into-mars-fluvial-history/)
