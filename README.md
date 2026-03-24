@@ -24,8 +24,7 @@ identifying which products, regions and customers drive profit and which
 quietly lose money despite high sales.
 
 **Skills:** Star schema design, exploratory analysis, time series, 
-window functions (LAG, RANK, DENSE_RANK), CTEs, segmentation, 
-business reporting with CREATE VIEW  
+window functions (LAG, RANK, DENSE_RANK), CTEs, segmentation.
 **Tools:** SQL (SQLite), Python, pandas, SQLAlchemy, Jupyter, ipython-sql
 
 ---
