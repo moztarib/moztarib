@@ -1,8 +1,6 @@
 # Hi, I'm Faris
 Planetary geoscience graduate with experience in orbital data analytics, 
 numerical modelling and data pipeline development. 
-MSc through the [Erasmus Mundus GeoPlaNet program](https://geoplanet-impg.eu/). 
-My thesis involved the geophysical investigation of Noctis Mons (Mars) at DLR Berlin.
 
 📧 farisbeg.mirza@gmail.com | 📍 Berlin
 
