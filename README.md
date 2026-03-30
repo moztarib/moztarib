@@ -30,5 +30,5 @@ window functions (LAG, RANK, DENSE_RANK), CTEs, segmentation.
 ---
 
 ## Publications
-- *Geophysical Investigation of Noctis Volcano on Mars* — ESS Open Archive / DLR e-Library
+- *Geophysical Investigation of Noctis Volcano on Mars* — [ESS Open Archive](https://essopenarchive.org/doi/full/10.22541/essoar.176218868.89744519/v1) / [DLR e-Library](https://elib.dlr.de/222060/)
 - *Inverted River Channels in Alcañiz: Insights into Mars' Fluvial History* — [EGU Blog](https://blogs.egu.eu/divisions/ts/2024/08/16/inverted-river-channels-in-alcaniz-insights-into-mars-fluvial-history/)
