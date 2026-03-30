@@ -1,6 +1,6 @@
 # Hi, I'm Faris
 Planetary geoscience graduate with experience in orbital data analytics, 
-numerical modelling and data pipeline development. 
+numerical modelling and data processing pipelines. 
 
 📧 farisbeg.mirza@gmail.com | 📍 Berlin
 
@@ -9,7 +9,7 @@ numerical modelling and data pipeline development.
 ## Portfolio
 
 ### 1. [mars-geophysics-portfolio](https://github.com/moztarib/mars-geophysics-portfolio)
-Geophysical investigation of Noctis Mons, Mars — using MOLA, MARSIS radar 
+Geophysical investigation of Noctis Mons, Mars: using MOLA, MARSIS radar 
 and numerical plume modelling at DLR Berlin.
 
 **Skills:** Large-scale orbital data processing, RBF interpolation, radar 
@@ -19,7 +19,7 @@ dielectric inversion, elastic flexure modelling, spherical harmonics
 ---
 
 ### 2. [data-analytics-sql](https://github.com/moztarib/data-analytics-sql)
-End-to-end SQL analytics project on 51,290 global retail transactions —
+End-to-end SQL analytics project on 51,290 global retail transactions:
 identifying which products, regions and customers drive profit and which
 quietly lose money despite high sales.
 
