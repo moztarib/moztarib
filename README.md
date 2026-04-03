@@ -1,6 +1,5 @@
 # Hi, I'm Faris
-Planetary geoscience graduate with experience in orbital data analytics, 
-numerical modelling and data processing pipelines. 
+Planetary geoscience graduate with experience in orbital data analytics, numerical modelling, statistical analysis, and data processing pipelines in Python and SQL. 
 
 📧 farisbeg.mirza@gmail.com | 📍 Berlin
 
