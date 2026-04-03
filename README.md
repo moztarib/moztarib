@@ -6,14 +6,14 @@ numerical modelling and data processing pipelines.
 
 ---
 
-## Portfolio
+## Portfolio Repositories:
 
 ### 1. [mars-geophysics-portfolio](https://github.com/moztarib/mars-geophysics-portfolio)
 Geophysical investigation of Noctis Mons, Mars: using MOLA, MARSIS radar 
 and numerical plume modelling at DLR Berlin.
 
-**Skills:** Large-scale orbital data processing, RBF interpolation, radar 
-dielectric inversion, elastic flexure modelling, spherical harmonics  
+**Skills:** Scientific Programming, large-scale orbital data processing, RBF interpolation, radar 
+dielectric inversion, elastic flexure (numerical) modelling, spherical harmonics  
 **Tools:** Python, NumPy, SciPy, GeoPandas, pyshtools, QGIS, Matplotlib
 
 ---
@@ -24,7 +24,7 @@ identifying which products, regions and customers drive profit and which
 quietly lose money despite high sales.
 
 **Skills:** Star schema design, exploratory analysis, time series, 
-window functions (LAG, RANK, DENSE_RANK), CTEs, segmentation.
+window functions (OVER, PARTITION BY, LAG, RANK, DENSE_RANK), CTEs, segmentation.
 **Tools:** SQL (SQLite), Python, pandas, SQLAlchemy, Jupyter, ipython-sql
 
 ---
