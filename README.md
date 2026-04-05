@@ -8,8 +8,8 @@ Planetary geoscience graduate with experience in orbital data analytics, numeric
 ## Portfolio Repositories:
 
 ### 1. [mars-geophysics-portfolio](https://github.com/moztarib/mars-geophysics-portfolio)
-Geophysical investigation of Noctis Mons, Mars: using MOLA, MARSIS radar 
-and numerical plume modelling at DLR Berlin.
+Geophysical investigation of Noctis Mons, Mars: using MOLA, MARSIS radar dataets
+and numerical plume modelling, at DLR Berlin.
 
 **Skills:** Scientific Programming, large-scale orbital data processing, RBF interpolation, radar 
 dielectric inversion, elastic flexure (numerical) modelling, spherical harmonics  
