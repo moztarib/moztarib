@@ -7,7 +7,7 @@ Planetary geoscience graduate with experience in orbital data analytics, numeric
 
 ## Portfolio Repositories:
 
-### 1. [mars-geophysics-portfolio](https://github.com/moztarib/mars-geophysics-portfolio)
+### 1. [PYTHON-mars-geophysics](https://github.com/moztarib/mars-geophysics-portfolio)
 Geophysical investigation of Noctis Mons, Mars: using MOLA, MARSIS radar dataets
 and numerical plume modelling, at DLR Berlin.
 
@@ -17,7 +17,7 @@ dielectric inversion, elastic flexure (numerical) modelling, spherical harmonics
 
 ---
 
-### 2. [data-analytics-sql](https://github.com/moztarib/data-analytics-sql)
+### 2. [SQL-data-analytics](https://github.com/moztarib/data-analytics-sql)
 End-to-end SQL analytics project on 51,290 global retail transactions:
 identifying which products, regions and customers drive profit and which
 quietly lose money despite high sales.
