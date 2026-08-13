@@ -7,7 +7,7 @@ Planetary science graduate with experience in orbital data analytics, **numerica
 
 ## Portfolio Repositories:
 
-### 1. [PYTHON based Mars Geophysics](https://github.com/moztarib/mars-geophysics-portfolio)
+### 1. [Python based Mars Geophysics](https://github.com/moztarib/mars-geophysics-portfolio)
 Geophysical investigation of Noctis Mons, Mars: using MOLA, MARSIS radar dataets
 and numerical plume modelling, at DLR Berlin.
 
